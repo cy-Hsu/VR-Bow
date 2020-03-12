@@ -29,4 +29,4 @@
 
 ### 參賽海報
 
-<img src="https://github.com/cy-Hsu/VR-Bow/blob/master/%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.jpg" width=800>
+<img src="https://github.com/cy-Hsu/VR-Bow/blob/master/pics/%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1.jpg" width=800>
